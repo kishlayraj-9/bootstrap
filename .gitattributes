@@ -4,5 +4,5 @@
 # Don't diff or textually merge source maps
 *.map binary
 
-bootstrap.css linguist-vendored=false
+bootstrap.css l         inguist-vendored=false
 bootstrap.js linguist-vendored=false
